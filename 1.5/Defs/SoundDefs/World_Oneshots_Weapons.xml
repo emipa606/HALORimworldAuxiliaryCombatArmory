@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================ Charge Weapons Generic ========================== -->
+  <SoundDef>
+    <defName>HRACA_Shot_ChargeShotgun</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>3</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Weapon/HRACA_ChargeShotgun_Shot</clipPath>
+          </li>
+        </grains>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>HRACA_Shot_ChargeSniper</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>3</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Weapon/HRACA_ChargeSniper_Shot</clipPath>
+          </li>
+        </grains>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- ============================ Plasma Weapons Generic ========================== -->
+  <SoundDef>
+    <defName>HRACA_Interact_PlasmaRifle</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>UI/WeaponHandling/HRACA_HandleWeaponPlasma</clipPath>
+          </li>
+        </grains>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>HRACA_Shot_Plasma</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>3</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Weapon/HRACA_Plasma_Shot</clipPath>
+          </li>
+        </grains>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
