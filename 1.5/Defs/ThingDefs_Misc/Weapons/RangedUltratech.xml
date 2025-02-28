@@ -56,7 +56,7 @@
         <range>24</range>
         <ticksBetweenBurstShots>6</ticksBetweenBurstShots>
         <burstShotCount>5</burstShotCount>
-        <soundCast>HRACA_Shot_Plasma</soundCast>
+        <soundCast>HRACA_Shot_PlasmaRifle</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
@@ -132,7 +132,7 @@
         <range>34</range>
         <ticksBetweenBurstShots>2</ticksBetweenBurstShots>
         <burstShotCount>3</burstShotCount>
-        <soundCast>HRACA_Shot_Plasma</soundCast>
+        <soundCast>HRACA_Shot_PlasmaBR</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
@@ -217,7 +217,7 @@
         <range>32</range>
         <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
         <burstShotCount>1</burstShotCount>
-        <soundCast>HRACA_Shot_Plasma</soundCast>
+        <soundCast>HRACA_Shot_PlasmaDMR</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>9</muzzleFlashScale>
       </li>
@@ -303,7 +303,7 @@
         <range>19</range>
         <ticksBetweenBurstShots>5</ticksBetweenBurstShots>
         <burstShotCount>1</burstShotCount>
-        <soundCast>HRACA_Shot_Plasma</soundCast>
+        <soundCast>HRACA_Shot_PlasmaShotgun</soundCast>
         <soundCastTail>GunTail_Heavy</soundCastTail>
         <muzzleFlashScale>7</muzzleFlashScale>
       </li>
@@ -378,7 +378,7 @@
         <range>22</range>
         <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
         <burstShotCount>3</burstShotCount>
-        <soundCast>HRACA_Shot_Plasma</soundCast>
+        <soundCast>HRACA_Shot_PlasmaShotgun</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
         <muzzleFlashScale>6</muzzleFlashScale>
       </li>

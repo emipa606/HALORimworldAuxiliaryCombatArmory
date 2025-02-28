@@ -1,4 +1,7 @@
 # Changelog for HALORimworldAuxiliaryCombatArmory
 
+1.5.1 - Added in the original Halo sounds from the old patchmod
+
+
 1.5.0 - First publish
 
