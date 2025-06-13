@@ -1,9 +1,13 @@
-# [HALO: Rimworld Auxiliary Combat Armory (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3435308436)
+# [[Legacy] HALO: Rimworld Auxiliary Combat Armory (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3435308436)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Helixiens mod https://steamcommunity.com/sharedfiles/filedetails/?id=1961456342
 with permission
+
+**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md).**
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3498160244).
+This version will not receive any further updates.
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
