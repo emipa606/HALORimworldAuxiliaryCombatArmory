@@ -1,9 +1,12 @@
-# [HALO: Rimworld Auxiliary Combat Armory (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3435308436)
+# [HALO: Rimworld Auxiliary Combat Armory (Continued)]()
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Helixiens mod https://steamcommunity.com/sharedfiles/filedetails/?id=1961456342
 with permission
+
+**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md)**.
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3435308436).
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
@@ -91,6 +94,4 @@ Rimworld is owned by Tynan Sylvester.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
- 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/HALORimworldAuxiliaryCombatArmory?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3435308436) | tags:  halo,  unsc
+  | tags:  halo,  unsc

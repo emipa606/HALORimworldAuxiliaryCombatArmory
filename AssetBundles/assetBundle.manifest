@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 159345833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c817a36c349a807ea12cdf2577cb0f49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c817a36c349a807ea12cdf2577cb0f49
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_shotgun_plasma.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_br_plasma.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_shotgun.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Drm_Shot/HRACA_Drm_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Magnum_Shot/HRACA_Magnum_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_EMPLauncher_Shot/HRACA_EMPLauncher_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRiflePlasma_Shot/HRACA_BattleRiflePlasma_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Projectile/HRACA_Bullet_Plasma_Shotgun.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Pistol_Shot/HRACA_Pistol_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_PistolPlasma_Shot/HRACA_PistolPlasma_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_br_old.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_smg.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/UI/WeaponHandling/HRACA_HandleWeaponPlasma.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Pistol_Shot/HRACA_Pistol_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_PistolPlasma_Shot/HRACA_PistolPlasma_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Smg_Shot/HRACA_Smg_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_launcher.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_br.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Magnum_Shot/HRACA_Magnum_Shot_d.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_AssaultRifle_Shot/HRACA_AssaultRifle_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Projectile/HRACA_Charge_Rocket.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_DrmPlasma_Shot/HRACA_DrmPlasma_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Shotgun_Shot/HRACA_Shotgun_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Pistol_Shot/HRACA_Pistol_Shot_d.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Sniper_Shot/HRACA_Sniper_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Launcher_Shot/HRACA_Launcher_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_AssaultRifle_Shot/HRACA_AssaultRifle_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_DrmPlasma_Shot/HRACA_DrmPlasma_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_ShotgunPlasma_Shot/HRACA_ShotgunPlasma_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRiflePlasma_Shot/HRACA_BattleRiflePlasma_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_grenade_launcher_emp.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRifle_Shot/HRACA_BattleRifle_Shot_d.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Drm_Shot/HRACA_Drm_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_pistol.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Shotgun_Shot/HRACA_Shotgun_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRifle_Shot/HRACA_BattleRifle_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Magnum_Shot/HRACA_Magnum_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Projectile/HRACA_Bullet_Charge_Shotgun.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_DrmPlasma_Shot/HRACA_DrmPlasma_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Sniper_Shot/HRACA_Sniper_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_ar.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_AssaultRifle_Shot/HRACA_AssaultRifle_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Projectile/HRACA_Plasma_Small.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_ShotgunPlasma_Shot/HRACA_ShotgunPlasma_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_EMPLauncher_Shot/HRACA_EMPLauncher_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Sniper_Shot/HRACA_Sniper_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_pistol_plasma.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_dmr_plasma.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRifle_Shot/HRACA_BattleRifle_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Shotgun_Shot/HRACA_Shotgun_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Drm_Shot/HRACA_Drm_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_EMPLauncher_Shot/HRACA_EMPLauncher_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Launcher_Shot/HRACA_Launcher_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_ShotgunPlasma_Shot/HRACA_ShotgunPlasma_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Sniper_Shot/HRACA_Sniper_Shot_d.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_PistolPlasma_Shot/HRACA_PistolPlasma_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Smg_Shot/HRACA_Smg_Shot_a.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_sniper.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HRACA_Plasma_Shot.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_dmr.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Smg_Shot/HRACA_Smg_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRiflePlasma_Shot/HRACA_BattleRiflePlasma_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Launcher_Shot/HRACA_Launcher_Shot_c.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_ar_plasma.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_BattleRifle_Shot/HRACA_BattleRifle_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Magnum_Shot/HRACA_Magnum_Shot_b.wav
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Textures/Things/Item/Equipment/WeaponRanged/HRACA_magnum.png
+- Assets/Data/Mlie.HALORimworldAuxiliaryCombatArmory/Sounds/Weapon/HaloSounds/HRACA_Pistol_Shot/HRACA_Pistol_Shot_a.wav
+Dependencies: []

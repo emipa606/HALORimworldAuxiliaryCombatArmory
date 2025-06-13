@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeBR.label>charge shot</HRACA_Bullet_ChargeBR.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeDMR.label>charge shot</HRACA_Bullet_ChargeDMR.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeMagnum.label>charge shot</HRACA_Bullet_ChargeMagnum.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargePistol.label>charge shot</HRACA_Bullet_ChargePistol.label>
+  <!-- EN: charge rocket -->
+  <HRACA_Bullet_ChargeRocket.label>charge rocket</HRACA_Bullet_ChargeRocket.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeShotgun.label>charge shot</HRACA_Bullet_ChargeShotgun.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeSMG.label>charge shot</HRACA_Bullet_ChargeSMG.label>
+  <!-- EN: charge shot -->
+  <HRACA_Bullet_ChargeSniperRifle.label>charge shot</HRACA_Bullet_ChargeSniperRifle.label>
+  <!-- EN: EMP launcher shell -->
+  <HRACA_Bullet_EMPLauncher.label>EMP launcher shell</HRACA_Bullet_EMPLauncher.label>
+  <!-- EN: EMP grenade launcher -->
+  <HRACA_EmpLauncher.label>EMP grenade launcher</HRACA_EmpLauncher.label>
+  <!-- EN: A short-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect. -->
+  <HRACA_EmpLauncher.description>A short-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect.</HRACA_EmpLauncher.description>
+  <!-- EN: stock -->
+  <HRACA_EmpLauncher.tools.stock.label>stock</HRACA_EmpLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_EmpLauncher.tools.barrel.label>barrel</HRACA_EmpLauncher.tools.barrel.label>
+  <!-- EN: EMP grenade launcher -->
+  <HRACA_EmpLauncher.verbs.Verb_Shoot.label>EMP grenade launcher</HRACA_EmpLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: charge battle rifle -->
+  <HRACA_Gun_Charge_BR.label>charge battle rifle</HRACA_Gun_Charge_BR.label>
+  <!-- EN: A three shot burst, long ranged, charged-shot battle rifle. Perfect for use against armored targets at mid range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_BR.description>A three shot burst, long ranged, charged-shot battle rifle. Perfect for use against armored targets at mid range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_BR.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_BR.tools.stock.label>stock</HRACA_Gun_Charge_BR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_BR.tools.barrel.label>barrel</HRACA_Gun_Charge_BR.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_BR.tools.grip.label>grip</HRACA_Gun_Charge_BR.tools.grip.label>
+  <!-- EN: charge battle rifle -->
+  <HRACA_Gun_Charge_BR.verbs.Verb_Shoot.label>charge battle rifle</HRACA_Gun_Charge_BR.verbs.Verb_Shoot.label>
+  <!-- EN: charge marksman rifle -->
+  <HRACA_Gun_Charge_DMR.label>charge marksman rifle</HRACA_Gun_Charge_DMR.label>
+  <!-- EN: A one shot, long ranged, charged-shot marksman rifle. Perfect for use against armored targets at mid range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_DMR.description>A one shot, long ranged, charged-shot marksman rifle. Perfect for use against armored targets at mid range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_DMR.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_DMR.tools.stock.label>stock</HRACA_Gun_Charge_DMR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_DMR.tools.barrel.label>barrel</HRACA_Gun_Charge_DMR.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_DMR.tools.grip.label>grip</HRACA_Gun_Charge_DMR.tools.grip.label>
+  <!-- EN: charge marksman rifle -->
+  <HRACA_Gun_Charge_DMR.verbs.Verb_Shoot.label>charge marksman rifle</HRACA_Gun_Charge_DMR.verbs.Verb_Shoot.label>
+  <!-- EN: charge launcher -->
+  <HRACA_Gun_Charge_Launcher.label>charge launcher</HRACA_Gun_Charge_Launcher.label>
+  <!-- EN: A charge launcher, shooting two charge rockets after each other. Each rocket is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done by the explosion. -->
+  <HRACA_Gun_Charge_Launcher.description>A charge launcher, shooting two charge rockets after each other. Each rocket is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done by the explosion.</HRACA_Gun_Charge_Launcher.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_Launcher.tools.stock.label>stock</HRACA_Gun_Charge_Launcher.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Launcher.tools.barrel.label>barrel</HRACA_Gun_Charge_Launcher.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_Launcher.tools.grip.label>grip</HRACA_Gun_Charge_Launcher.tools.grip.label>
+  <!-- EN: charge launcher -->
+  <HRACA_Gun_Charge_Launcher.verbs.Verb_ShootOneUse.label>charge launcher</HRACA_Gun_Charge_Launcher.verbs.Verb_ShootOneUse.label>
+  <!-- EN: charge magnum -->
+  <HRACA_Gun_Charge_Magnum.label>charge magnum</HRACA_Gun_Charge_Magnum.label>
+  <!-- EN: A powerful charge pistol, sacrificing neither damage, accuracy or range. Extremely rare and hard to build. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_Magnum.description>A powerful charge pistol, sacrificing neither damage, accuracy or range. Extremely rare and hard to build. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_Magnum.description>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Magnum.tools.barrel.label>barrel</HRACA_Gun_Charge_Magnum.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_Magnum.tools.grip.label>grip</HRACA_Gun_Charge_Magnum.tools.grip.label>
+  <!-- EN: charge magnum -->
+  <HRACA_Gun_Charge_Magnum.verbs.Verb_Shoot.label>charge magnum</HRACA_Gun_Charge_Magnum.verbs.Verb_Shoot.label>
+  <!-- EN: charge tactical pistol -->
+  <HRACA_Gun_Charge_Pistol.label>charge tactical pistol</HRACA_Gun_Charge_Pistol.label>
+  <!-- EN: A fully automatic charge pistol, sacrificing damage for long range and accuracy. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_Pistol.description>A fully automatic charge pistol, sacrificing damage for long range and accuracy. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_Pistol.description>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Pistol.tools.barrel.label>barrel</HRACA_Gun_Charge_Pistol.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_Pistol.tools.grip.label>grip</HRACA_Gun_Charge_Pistol.tools.grip.label>
+  <!-- EN: charge tactical pistol -->
+  <HRACA_Gun_Charge_Pistol.verbs.Verb_Shoot.label>charge tactical pistol</HRACA_Gun_Charge_Pistol.verbs.Verb_Shoot.label>
+  <!-- EN: charge quickfire rifle -->
+  <HRACA_Gun_Charge_Rifle.label>charge quickfire rifle</HRACA_Gun_Charge_Rifle.label>
+  <!-- EN: A quickfire charged-shot assault rifle. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_Rifle.description>A quickfire charged-shot assault rifle. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_Rifle.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_Rifle.tools.stock.label>stock</HRACA_Gun_Charge_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Rifle.tools.barrel.label>barrel</HRACA_Gun_Charge_Rifle.tools.barrel.label>
+  <!-- EN: charge quickfire rifle -->
+  <HRACA_Gun_Charge_Rifle.verbs.Verb_Shoot.label>charge quickfire rifle</HRACA_Gun_Charge_Rifle.verbs.Verb_Shoot.label>
+  <!-- EN: charge tactical shotgun -->
+  <HRACA_Gun_Charge_Shotgun.label>charge tactical shotgun</HRACA_Gun_Charge_Shotgun.label>
+  <!-- EN: A deadly, charged-shot shotgun. It sacrifices range and accuracy for damage at close range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_Shotgun.description>A deadly, charged-shot shotgun. It sacrifices range and accuracy for damage at close range. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_Shotgun.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_Shotgun.tools.stock.label>stock</HRACA_Gun_Charge_Shotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Shotgun.tools.barrel.label>barrel</HRACA_Gun_Charge_Shotgun.tools.barrel.label>
+  <!-- EN: charge tactical shotgun -->
+  <HRACA_Gun_Charge_Shotgun.verbs.Verb_Shoot.label>charge tactical shotgun</HRACA_Gun_Charge_Shotgun.verbs.Verb_Shoot.label>
+  <!-- EN: charge compact smg -->
+  <HRACA_Gun_Charge_SMG.label>charge compact smg</HRACA_Gun_Charge_SMG.label>
+  <!-- EN: A compact quickfire charged-shot SMG. Perfect for close range use. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_SMG.description>A compact quickfire charged-shot SMG. Perfect for close range use. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_SMG.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_SMG.tools.stock.label>stock</HRACA_Gun_Charge_SMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_SMG.tools.barrel.label>barrel</HRACA_Gun_Charge_SMG.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_SMG.tools.grip.label>grip</HRACA_Gun_Charge_SMG.tools.grip.label>
+  <!-- EN: charge compact smg -->
+  <HRACA_Gun_Charge_SMG.verbs.Verb_Shoot.label>charge compact smg</HRACA_Gun_Charge_SMG.verbs.Verb_Shoot.label>
+  <!-- EN: charge anti-materiel rifle -->
+  <HRACA_Gun_Charge_Sniper.label>charge anti-materiel rifle</HRACA_Gun_Charge_Sniper.label>
+  <!-- EN: A charge shot, long ranged, sniper rifle. It cuts through armor like butter. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HRACA_Gun_Charge_Sniper.description>A charge shot, long ranged, sniper rifle. It cuts through armor like butter. Each shot is charged with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HRACA_Gun_Charge_Sniper.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Charge_Sniper.tools.stock.label>stock</HRACA_Gun_Charge_Sniper.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Charge_Sniper.tools.barrel.label>barrel</HRACA_Gun_Charge_Sniper.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Charge_Sniper.tools.grip.label>grip</HRACA_Gun_Charge_Sniper.tools.grip.label>
+  <!-- EN: charge anti-materiel rifle -->
+  <HRACA_Gun_Charge_Sniper.verbs.Verb_Shoot.label>charge anti-materiel rifle</HRACA_Gun_Charge_Sniper.verbs.Verb_Shoot.label>
+</LanguageData>

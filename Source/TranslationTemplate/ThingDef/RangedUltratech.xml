@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: plasma shot -->
+  <HRACA_Bullet_PlasmaBR.label>plasma shot</HRACA_Bullet_PlasmaBR.label>
+  <!-- EN: plasma shot -->
+  <HRACA_Bullet_PlasmaDMR.label>plasma shot</HRACA_Bullet_PlasmaDMR.label>
+  <!-- EN: plasma shot -->
+  <HRACA_Bullet_PlasmaPistol.label>plasma shot</HRACA_Bullet_PlasmaPistol.label>
+  <!-- EN: plasma shot -->
+  <HRACA_Bullet_PlasmaRifle.label>plasma shot</HRACA_Bullet_PlasmaRifle.label>
+  <!-- EN: plasma shot -->
+  <HRACA_Bullet_PlasmaShotgun.label>plasma shot</HRACA_Bullet_PlasmaShotgun.label>
+  <!-- EN: plasma battle rifle -->
+  <HRACA_Gun_Plasma_BR.label>plasma battle rifle</HRACA_Gun_Plasma_BR.label>
+  <!-- EN: A three shot burst, long ranged, plasma battle rifle. Perfect for use against armored targets at mid range. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target. -->
+  <HRACA_Gun_Plasma_BR.description>A three shot burst, long ranged, plasma battle rifle. Perfect for use against armored targets at mid range. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target.</HRACA_Gun_Plasma_BR.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Plasma_BR.tools.stock.label>stock</HRACA_Gun_Plasma_BR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Plasma_BR.tools.barrel.label>barrel</HRACA_Gun_Plasma_BR.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Plasma_BR.tools.grip.label>grip</HRACA_Gun_Plasma_BR.tools.grip.label>
+  <!-- EN: plasma battle rifle -->
+  <HRACA_Gun_Plasma_BR.verbs.Verb_Shoot.label>plasma battle rifle</HRACA_Gun_Plasma_BR.verbs.Verb_Shoot.label>
+  <!-- EN: plasma marksman rifle -->
+  <HRACA_Gun_Plasma_DMR.label>plasma marksman rifle</HRACA_Gun_Plasma_DMR.label>
+  <!-- EN: A one shot, long ranged, plasma marksman rifle. Perfect for use against armored targets at mid range. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target. -->
+  <HRACA_Gun_Plasma_DMR.description>A one shot, long ranged, plasma marksman rifle. Perfect for use against armored targets at mid range. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target.</HRACA_Gun_Plasma_DMR.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Plasma_DMR.tools.stock.label>stock</HRACA_Gun_Plasma_DMR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Plasma_DMR.tools.barrel.label>barrel</HRACA_Gun_Plasma_DMR.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Plasma_DMR.tools.grip.label>grip</HRACA_Gun_Plasma_DMR.tools.grip.label>
+  <!-- EN: plasma marksman rifle -->
+  <HRACA_Gun_Plasma_DMR.verbs.Verb_Shoot.label>plasma marksman rifle</HRACA_Gun_Plasma_DMR.verbs.Verb_Shoot.label>
+  <!-- EN: plasma quickfire pistol -->
+  <HRACA_Gun_Plasma_Pistol.label>plasma quickfire pistol</HRACA_Gun_Plasma_Pistol.label>
+  <!-- EN: A fully automatic plasma pistol. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target. -->
+  <HRACA_Gun_Plasma_Pistol.description>A fully automatic plasma pistol. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target.</HRACA_Gun_Plasma_Pistol.description>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Plasma_Pistol.tools.barrel.label>barrel</HRACA_Gun_Plasma_Pistol.tools.barrel.label>
+  <!-- EN: grip -->
+  <HRACA_Gun_Plasma_Pistol.tools.grip.label>grip</HRACA_Gun_Plasma_Pistol.tools.grip.label>
+  <!-- EN: plasma quickfire pistol -->
+  <HRACA_Gun_Plasma_Pistol.verbs.Verb_Shoot.label>plasma quickfire pistol</HRACA_Gun_Plasma_Pistol.verbs.Verb_Shoot.label>
+  <!-- EN: plasma quickfire rifle -->
+  <HRACA_Gun_Plasma_Rifle.label>plasma quickfire rifle</HRACA_Gun_Plasma_Rifle.label>
+  <!-- EN: A quickfire plasma assault rifle. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target. -->
+  <HRACA_Gun_Plasma_Rifle.description>A quickfire plasma assault rifle. Each shot is plasma wrapped around a small core and held in place by an energy field. The plasma is released on impact, burning the target.</HRACA_Gun_Plasma_Rifle.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Plasma_Rifle.tools.stock.label>stock</HRACA_Gun_Plasma_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Plasma_Rifle.tools.barrel.label>barrel</HRACA_Gun_Plasma_Rifle.tools.barrel.label>
+  <!-- EN: plasma quickfire rifle -->
+  <HRACA_Gun_Plasma_Rifle.verbs.Verb_Shoot.label>plasma quickfire rifle</HRACA_Gun_Plasma_Rifle.verbs.Verb_Shoot.label>
+  <!-- EN: plasma tactical shotgun -->
+  <HRACA_Gun_Plasma_Shotgun.label>plasma tactical shotgun</HRACA_Gun_Plasma_Shotgun.label>
+  <!-- EN: A deadly, plasma shotgun. Each shot is plasma wrapped around tiny cores and held in place by an energy field. The plasma is released on impact, burning the target. -->
+  <HRACA_Gun_Plasma_Shotgun.description>A deadly, plasma shotgun. Each shot is plasma wrapped around tiny cores and held in place by an energy field. The plasma is released on impact, burning the target.</HRACA_Gun_Plasma_Shotgun.description>
+  <!-- EN: stock -->
+  <HRACA_Gun_Plasma_Shotgun.tools.stock.label>stock</HRACA_Gun_Plasma_Shotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <HRACA_Gun_Plasma_Shotgun.tools.barrel.label>barrel</HRACA_Gun_Plasma_Shotgun.tools.barrel.label>
+  <!-- EN: plasma tactical shotgun -->
+  <HRACA_Gun_Plasma_Shotgun.verbs.Verb_Shoot.label>plasma tactical shotgun</HRACA_Gun_Plasma_Shotgun.verbs.Verb_Shoot.label>
+</LanguageData>
