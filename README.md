@@ -1,4 +1,4 @@
-# [HALO: Rimworld Auxiliary Combat Armory (Continued)]()
+# [HALO: Rimworld Auxiliary Combat Armory (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3498160244)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -94,4 +94,6 @@ Rimworld is owned by Tynan Sylvester.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
-  | tags:  halo,  unsc
+  | tags:  halo,  unsc 
+
+[![Image](https://img.shields.io/github/v/release/emipa606/HALORimworldAuxiliaryCombatArmory?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3498160244) | tags:  halo,  unsc
