@@ -1,5 +1,8 @@
 # Changelog for HALORimworldAuxiliaryCombatArmory
 
+1.7.1 - Last update of the AssetBundle version of the mod
+
+
 1.7.0 - Mod updated for 1.7 and passed autotests
 
 
